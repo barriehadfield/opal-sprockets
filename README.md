@@ -118,7 +118,7 @@ And then visit `http://127.0.0.1:9292` in any browser.
 
 ```ruby
 Opal::Config.source_map_enabled = false
-```
+``` 
 
 ## License
 
